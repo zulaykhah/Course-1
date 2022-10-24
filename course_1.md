@@ -8,4 +8,5 @@
 - `git branch`
 - `git commit`
 - `git log`
-
+- `git checkout`
+- `git checkout -b`
